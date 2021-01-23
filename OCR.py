@@ -17,5 +17,5 @@ def process_image():
 def cannyedge(image):
     return cv2.Canny(image,100,200)
 
-    
+
 process_image()
