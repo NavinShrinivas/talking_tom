@@ -1,7 +1,4 @@
----
 
-
----
 
 <h1 id="talking-tom">Talking Tom</h1>
 <h2 id="getting-started">Getting Started</h2>
