@@ -1,2 +1,2 @@
-random-password-generator
-tk-tools
+opencv-python
+pytesseract
