@@ -1,4 +1,6 @@
 opencv-python
 pytesseract
 numpy
-psutil
+pyinstaller
+pyttsx3
+Flask
